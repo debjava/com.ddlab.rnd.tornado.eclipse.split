@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.ddlab.rnd.tornado.eclipse.split.feature"
+      label="Deba Eclipse Split Editor"
+      version="1.0.0.qualifier"
+      provider-name="DDLAB">
+
+   <description url="http://www.example.com/description">
+      * Splits the current active editor
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      It is a free and open source utility plugin developed by Debadatta
+Mishra.
+You can use it freely at your own risk.
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      It is a free and open source utility plugin developed by Debadatta
+Mishra.
+You can use it freely at your own risk.
+   </license>
+
+   <plugin
+         id="com.ddlab.rnd.tornado.eclipse.split"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
